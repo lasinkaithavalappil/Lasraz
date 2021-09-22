@@ -14,7 +14,7 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="AMEERKALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="LASINKAITHAVALAPPIL" src="https://img.shields.io/badge/LASINAHAMED-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/lasinkaithavalappil"><img title="Author" src="https://img.shields.io/badge/Author-lasinkaithavalappil/Lasraz?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -49,21 +49,21 @@ Project created by <a href="https://github.com/lasinkaithavalappil">lasinkaithav
 
 
 ##
-  <h3 align="center">📢 Support Group 1:</h3>
-<p align="center">
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-  <a href="https://chat.whatsapp.com/DehJR9SZ3CeJeONtWIdHLm" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  
+
+
+    
+
+  
 </p>
 
 ## 
-  <h3 align="center">📢 Support Group 2:</h3>
-<p align="center">
-Click Lasraz logo to Join Support Group 2👇
-    <br>
-<br>
-  <a href="https://chat.whatsapp.com/DVZdnMJamVM4FYcG7XwaFw" target="blank"><img align="center" src="https://www.linkpicture.com/q/20210922_202155.png" alt="kyrie.baran" height="200" width="200" /></a>
+  
+
+
+    
+
+  
 </p>
     
 ## Setup
