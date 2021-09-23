@@ -11,19 +11,18 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/2016/03/Pikachu-wallpaper-HD-dowload.jpg";
+  r_text[0] = "https://www.linkpicture.com/q/20210922_202155_1.png";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is Ameer Suhail*
-*Creator number : wa.me/919946432377?text=Hi%20Ameer%20Suhail.%20*
-*Bot setting video : https://youtu.be/_D4ZYuUSXjs*
-*Githublink (Setup)  :    https://github.com/ameer-kallumthodi/pikachu*
-*Audio commads :   https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
-*Sticker commads : https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is Lasin Ahamed*
+*Creator number : wa.me/919544980529?text=Hi%20Lasin%20Ahamed.%20*
+*Githublink (Setup)  :    https://github.com/lasinkaithavalappil/Lasraz*
+*Audio commads :   https://github.com/lasinkaithavalappil/Lasraz/tree/master/uploads*
+*Sticker commads : https://github.com/lasinkaithavalappil/Lasraz/tree/master/uploads*
 `}) 
 
 }));
